@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Akshay Gulhane
 ![github photo](https://github.com/Akshay-Gulhane15/Akshay-Gulhane15/assets/168900655/04b41b9e-c13e-420b-bae0-2d47f4c8439c)
 
-**Akshay-Gulhane15/Akshay-Gulhane15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my GitHub profile! Feel free to explore the projects, raise issues, and submit PRs. Let's collaborate and create amazing things together! 😊
 
 - 🔭 I'm passionate about Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
@@ -11,5 +9,4 @@ Welcome to my GitHub profile! Feel free to explore the projects, raise issues, a
 - 👯 I’m looking to collaborate on Machine Learning.
 - 📫 Connect with me via www.linkedin.com/in/akshaygulhane15 or email - akshaygulhane015@gmail.com
 
-Tech Stack
-Machine Learning Deep Learning
+
