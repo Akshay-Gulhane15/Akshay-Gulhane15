@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Akshay Gulhane
+![github photo](https://github.com/Akshay-Gulhane15/Akshay-Gulhane15/assets/168900655/04b41b9e-c13e-420b-bae0-2d47f4c8439c)
 
-<!--https://github.com/kartikshastrakar/portfolio_new/raw/main/coding-freak.gif
 **Akshay-Gulhane15/Akshay-Gulhane15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my GitHub profile! Feel free to explore the projects, raise issues, and submit PRs. Let's collaborate and create amazing things together! 😊
@@ -12,4 +12,4 @@ Welcome to my GitHub profile! Feel free to explore the projects, raise issues, a
 - 📫 Connect with me via www.linkedin.com/in/akshaygulhane15 or email - akshaygulhane015@gmail.com
 
 Tech Stack
-Python
+Machine Learning Deep Learning
