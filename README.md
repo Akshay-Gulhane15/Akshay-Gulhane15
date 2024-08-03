@@ -8,6 +8,6 @@ Welcome to my GitHub profile! Feel free to explore the projects, raise issues, a
 - 🌱 I’m currently learning Deep Learning and AI.
 - 💼 Actively seeking opportunities as a Data Scientist or ML/DL Engineer.
 - 👯 I’m looking to collaborate on Machine Learning.
-- 📫 Connect with me via www.linkedin.com/in/akshaygulhane15 or email - akshaygulhane015@gmail.com
+- 📫 Connect with me via www.linkedin.com/in/akshaygulhane15 or email - gulhaneakshay1997@gmail.com
 
 
